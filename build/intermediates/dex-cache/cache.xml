@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_db269797f42669243cc80008282c5ba1c2934f6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9916f439fa1b515165066434fb18032f569155cd">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_18c650c2367934789ead4cd8ef60f09ec0896c72/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.2.0_ca7ff5c7c36301d12a2253c3886828ff9332247e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.2.0_ec599b2417c57b63c3c154870765d4c660f857b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_a78d7cb1e64895179de29eebca8568547ae3489b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/glide-3.7.0_a78d7cb1e64895179de29eebca8568547ae3489b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/okio-1.11.0_33089b67a2cb87f6fb19d12cd53a78bd60b6928d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.2.0_d412135c241867cd35032c643e1143b1bdb598a4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_4471d53ee7077be50b0589dda1d02f63eb193fc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_d412135c241867cd35032c643e1143b1bdb598a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.2.0_4471d53ee7077be50b0589dda1d02f63eb193fc5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_ca7ff5c7c36301d12a2253c3886828ff9332247e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_12684bc0f8697b6cf09f56f35f8e8f7a9cdac27a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_33089b67a2cb87f6fb19d12cd53a78bd60b6928d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.2.0_12684bc0f8697b6cf09f56f35f8e8f7a9cdac27a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_6fa16a476282d5b36269e4762f7c6d7e446ba8c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/gson-2.8.0_6fa16a476282d5b36269e4762f7c6d7e446ba8c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/support-annotations-25.2.0_84ec8e0b00f56e14303d190b215e89b27aea828d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.2.0_2e02ec5f3f8ad1508f4a7b43ea9d099f5c878eae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.2.0_44bc49df388d4a0efde4148d245204e3ea2b874a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/org.litepal.android/core/1.5.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db185f06215220526d21bbf467cae061956cc185">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.litepal.android-core-1.5.1_f5d295187253954710511980b281e0c0483440b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_f8ae7ab481a3d1cb79dd32db105bfb35052b3742.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_44bc49df388d4a0efde4148d245204e3ea2b874a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_84ec8e0b00f56e14303d190b215e89b27aea828d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_f8ae7ab481a3d1cb79dd32db105bfb35052b3742/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_2e02ec5f3f8ad1508f4a7b43ea9d099f5c878eae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d5b3a892f5f24d81f947f0df49a01c02bd5e6a">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5c4e6848ddeb67c1e47f168232ed68fdf09e0531/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.2.0_5f372db1b4a4a6fba2374d753f837f5709e091f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_ec599b2417c57b63c3c154870765d4c660f857b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/org.litepal.android/core/1.5.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db185f06215220526d21bbf467cae061956cc185">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/org.litepal.android-core-1.5.1_f5d295187253954710511980b281e0c0483440b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.2.0_db269797f42669243cc80008282c5ba1c2934f6b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/heqin/AndroidStudioProjects/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_5f372db1b4a4a6fba2374d753f837f5709e091f2/classes.dex" />
+    </item>
+
+</items>
